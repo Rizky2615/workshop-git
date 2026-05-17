@@ -21,7 +21,7 @@ workshop-git/
 │   │   │   └── service.py      # File pengerjaan tugas Mohammad Bagus Afandi
 │   │   ├── Rizky_Hendriyan
 │   │   │   └── service.py      # File pengerjaan tugas Mochammad Rizky Hendriyan Syah
-│   │   └── Naziratul_Wahdhani
+│   │   └── naziratul-wahdhani
 │   │       └── service.py      # File pengerjaan tugas Naziratul Wahdhani
 │   │
 │   ├── tugas/                  # Folder tugas individu workshop
